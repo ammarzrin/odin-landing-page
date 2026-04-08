@@ -2,6 +2,10 @@
 
 A Landing Page project to practice HTML &amp; CSS mastery by replicating a UI design for a mock business landing page.
 
-## 10:49AM 8 April 2026
+## 8 April 2026, 10:49
 
 Copied all content from reference image into HTML and ready to apply CSS and adjust as needed.
+
+## 8 April 2026, 17:36 - 18:39
+
+Applied CSS to the Header and Hero Section content. Quite challenging applying flexbox from scratch. Requires good layout planning skills during HTML writing.
