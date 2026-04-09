@@ -17,3 +17,7 @@ Done with the second section, played with flex wrap and reorganising previous co
 ## 9 April 2026, 11:30 - 12:10
 
 Much better understanding of combining the box model and flexbox to organise elements. Completed the 3rd section.
+
+## 9 April 2026, 12:10 - 12:55
+
+Finished the landing page project as per the requirements to follow the reference image. Added alongside are responsive design techniques using flexbox properties. A bit of creative flair added but still following content from reference image.
