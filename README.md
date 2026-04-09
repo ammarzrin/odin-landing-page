@@ -13,3 +13,7 @@ Applied CSS to the Header and Hero Section content. Quite challenging applying f
 ## 8 April 2026, 23:30 - 00:30
 
 Done with the second section, played with flex wrap and reorganising previous code for better layout and responsive design. Getting the hang of Flexbox now.
+
+## 9 April 2026, 11:30 - 12:10
+
+Much better understanding of combining the box model and flexbox to organise elements. Completed the 3rd section.
